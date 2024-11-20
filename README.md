@@ -13,7 +13,8 @@
 
 - Typescript
 - React JS
-- Context API 
+- Context API
+- React Router Dom
 
 
 <h2 id="started">🚀 Iniciar o projeto</h2>
